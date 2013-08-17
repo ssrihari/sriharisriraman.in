@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://ssrihari.github.io/sriharisriraman/sitemap.xml 
