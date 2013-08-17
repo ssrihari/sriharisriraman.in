@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://ssrihari.github.io/sriharisriraman
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: Space for thought
+subtitle: Srihari's blog
+author: Srihari Sriraman
 simple_search: http://google.com/search
 description:
 
@@ -26,7 +26,7 @@ email:
 # ----------------------- #
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
-root: /sriharisriraman.in
+root: /
 permalink: /blog/:year/:month/:day/:title/
 source: source
 destination: public/sriharisriraman.in
