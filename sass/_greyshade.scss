@@ -217,6 +217,16 @@ body {
 	}
 }
 
+a.nilenso-logo-link {
+	display: block;
+	margin: 10px 0;
+	opacity: 0.5;
+}
+
+.nilenso-logo-link:hover {
+	opacity: 1;
+}
+
 .archives {
 	.title {
 		font-size: 1.2em;

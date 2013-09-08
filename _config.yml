@@ -4,7 +4,8 @@
 
 url: http://ssrihari.github.io/sriharisriraman.in/
 title: Srihari's Blog
-subtitle: Space for thought
+subtitle:
+# subtitle: Space for thought
 author: Srihari Sriraman
 simple_search: http://google.com/search
 description:

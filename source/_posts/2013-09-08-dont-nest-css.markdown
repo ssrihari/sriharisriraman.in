@@ -6,7 +6,7 @@ comments: true
 categories: 
 ---
 
-**TL;DR:**  Don't nest CSS. Nest class names instead. This is one of the most useful take-aways from [Smacss](http://smacss.com).
+**TL;DR:**  Don't nest CSS. Nest class names instead. This is one of the most useful take-aways from [SMACSS](http://smacss.com).
 Follow this, and it will change the way you write scss for the better.
 
 
