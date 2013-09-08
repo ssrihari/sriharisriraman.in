@@ -73,7 +73,7 @@ Add the context, name of component/module in the class attribute:
   - The answer to "Where is the CSS for this?". Since the selectors have almost a one to one mapping with the class attributes, you just have to file-search for them now.
   - Speed. See how this helped [github](https://speakerdeck.com/jonrohan/githubs-css-performance?slide=11) speed up their diff pages.
 
-#Conclusion:
+###Conclusion:
 Don't nest CSS. You could start off with the [inception rule](http://thesassway.com/beginner/the-inception-rule), but I strongly suggest you stick to zero nesting levels (see exceptions below).
 
 ###Exceptions:
