@@ -5,7 +5,7 @@ project_type = :stand_alone
 
 # Publishing paths
 http_path = "/sriharisriraman.in/"
-http_images_path = "/sriharisriraman.in/images"
+http_images_path = "/images"
 http_generated_images_path = "/images"
 http_fonts_path = "/sriharisriraman.in/fonts"
 css_dir = "public/sriharisriraman.in/stylesheets"
