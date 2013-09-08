@@ -4,7 +4,6 @@ title: "Don't nest CSS"
 date: 2013-09-08 12:16
 comments: true
 categories: 
-published: false
 ---
 
 **TL;DR:**  Don't nest CSS. Nest class names instead. This is one of the most useful take-aways from [Smacss](http://smacss.com).
