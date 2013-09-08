@@ -4,7 +4,7 @@
   <title><![CDATA[Srihari's Blog]]></title>
   <link href="http://ssrihari.github.io/sriharisriraman.in//atom.xml" rel="self"/>
   <link href="http://ssrihari.github.io/sriharisriraman.in//"/>
-  <updated>2013-09-08T18:17:36+05:30</updated>
+  <updated>2013-09-08T23:43:24+05:30</updated>
   <id>http://ssrihari.github.io/sriharisriraman.in//</id>
   <author>
     <name><![CDATA[Srihari Sriraman]]></name>
@@ -18,7 +18,7 @@
     <link href="http://ssrihari.github.io/sriharisriraman.in//blog/2013/09/08/dont-nest-css/"/>
     <updated>2013-09-08T12:16:00+05:30</updated>
     <id>http://ssrihari.github.io/sriharisriraman.in//blog/2013/09/08/dont-nest-css</id>
-    <content type="html"><![CDATA[<p><strong>TL;DR:</strong>  Don&rsquo;t nest CSS. Nest class names instead. This is one of the most useful take-aways from <a href="http://smacss.com">Smacss</a>.
+    <content type="html"><![CDATA[<p><strong>TL;DR:</strong>  Don&rsquo;t nest CSS. Nest class names instead. This is one of the most useful take-aways from <a href="http://smacss.com">SMACSS</a>.
 Follow this, and it will change the way you write scss for the better.</p>
 
 <p>With the coming of <a href="http://sass-lang.com/">sass</a>,  we have all seen how writing css has gotten easier.
