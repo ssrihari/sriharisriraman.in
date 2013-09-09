@@ -4,7 +4,7 @@
   <title><![CDATA[Srihari's Blog]]></title>
   <link href="sriharisriraman.in/atom.xml" rel="self"/>
   <link href="sriharisriraman.in/"/>
-  <updated>2013-09-09T00:05:51+05:30</updated>
+  <updated>2013-09-09T23:05:48+05:30</updated>
   <id>sriharisriraman.in/</id>
   <author>
     <name><![CDATA[Srihari Sriraman]]></name>
@@ -76,7 +76,7 @@ We love writing css that is similar to our html. The following would seem natura
 </span></code></pre></td></tr></table></div></figure>
 
 
-<h1>The correct way:</h1>
+<h2>The correct way:</h2>
 
 <p>Add the context, name of component/module in the class attribute:</p>
 
