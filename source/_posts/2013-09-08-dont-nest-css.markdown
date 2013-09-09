@@ -42,7 +42,7 @@ This gives us the comfort of nesting css the same way we nest html. It gives us 
 .my-component .some-section p .important {}
 ```
 
-# The correct way:
+##The correct way:
 Add the context, name of component/module in the class attribute:
 ```html HTML for a component
 <div class="my-component">
