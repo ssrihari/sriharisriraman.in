@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Don't nest CSS"
+title: "You probably shouldn't be nesting your CSS"
 date: 2013-09-08 12:16
 comments: true
 categories: 
