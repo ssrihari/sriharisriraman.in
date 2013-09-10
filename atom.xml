@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Srihari's Blog]]></title>
-  <link href="sriharisriraman.in/atom.xml" rel="self"/>
-  <link href="sriharisriraman.in/"/>
-  <updated>2013-09-09T23:05:48+05:30</updated>
-  <id>sriharisriraman.in/</id>
+  <link href="http://sriharisriraman.in/atom.xml" rel="self"/>
+  <link href="http://sriharisriraman.in/"/>
+  <updated>2013-09-10T16:40:19+05:30</updated>
+  <id>http://sriharisriraman.in/</id>
   <author>
     <name><![CDATA[Srihari Sriraman]]></name>
     
@@ -14,10 +14,10 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Don't nest CSS]]></title>
-    <link href="sriharisriraman.in/blog/2013/09/08/dont-nest-css/"/>
+    <title type="html"><![CDATA[You probably shouldn't be nesting your CSS]]></title>
+    <link href="http://sriharisriraman.in/blog/2013/09/08/dont-nest-css/"/>
     <updated>2013-09-08T12:16:00+05:30</updated>
-    <id>sriharisriraman.in/blog/2013/09/08/dont-nest-css</id>
+    <id>http://sriharisriraman.in/blog/2013/09/08/dont-nest-css</id>
     <content type="html"><![CDATA[<p><strong>TL;DR:</strong>  Don&rsquo;t nest CSS. Nest class names instead. This is one of the most useful take-aways from <a href="http://smacss.com">SMACSS</a>.
 Follow this, and it will change the way you write scss for the better.</p>
 

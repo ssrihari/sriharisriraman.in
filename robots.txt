@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: sriharisriraman.in/sitemap.xml 
+Sitemap: http://sriharisriraman.in/sitemap.xml 
