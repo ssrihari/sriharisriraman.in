@@ -3,7 +3,7 @@ layout: post
 title: "You probably shouldn't be nesting your CSS"
 date: 2013-09-08 12:16
 comments: true
-categories: "nilenso", "css", "smacss"
+categories: [nilenso, css, smacss]
 ---
 
 **TL;DR:**  Don't nest CSS. Nest class names instead. This is one of the most useful take-aways from [SMACSS](http://smacss.com).
