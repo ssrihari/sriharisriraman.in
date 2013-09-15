@@ -6,9 +6,9 @@ comments: true
 categories: 
 ---
 'Tito' is like *Quicksilver* inside GIMP. You bring up tito and enter something, it gives a dropdown of possible actions. You hit enter to execute that action. [Michael Natterer](https://plus.google.com/116053365635940402074) (maintainer) told me on IRC about a year ago that it can go upstream with a few changes. Quite sadly, I haven't had the time to make those changes. It works pretty well though. Here are a few screenshots:
-![snap](/sriharisriraman.in/images/tito-images/snap.jpg)
-![apply canvas](/sriharisriraman.in/images/tito-images/apcan.jpg)
-![blur](/sriharisriraman.in/images/tito-images/blur.jpg)
+![snap](/images/tito-images/snap.jpg)
+![apply canvas](/images/tito-images/apcan.jpg)
+![blur](/images/tito-images/blur.jpg)
 More screenshots [here](https://github.com/ssrihari/gimp-tito/wiki/_preview#v-screenshots).
 
 ###Currently implemented features
