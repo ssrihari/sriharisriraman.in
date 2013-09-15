@@ -4,7 +4,7 @@
   <title><![CDATA[Srihari's Blog]]></title>
   <link href="http://sriharisriraman.in/atom.xml" rel="self"/>
   <link href="http://sriharisriraman.in/"/>
-  <updated>2013-09-15T23:23:29+05:30</updated>
+  <updated>2013-09-15T23:28:53+05:30</updated>
   <id>http://sriharisriraman.in/</id>
   <author>
     <name><![CDATA[Srihari Sriraman]]></name>
@@ -19,10 +19,13 @@
     <updated>2013-09-15T20:27:00+05:30</updated>
     <id>http://sriharisriraman.in/blog/2013/09/15/gimp-tito</id>
     
-    <content type="html"><![CDATA[<p>&lsquo;Tito&rsquo; is like <em>Quicksilver</em> inside GIMP. You bring up tito and enter something, it gives a dropdown of possible actions. You hit enter to execute that action. <a href="https://plus.google.com/116053365635940402074">Michael Natterer</a> (maintainer) told me on IRC about a year ago that it can go upstream with a few changes. Quite sadly, I haven&rsquo;t had the time to make those changes. It works pretty well though. Here are a few screenshots:
-<img src="http://sriharisriraman.in/images/tito-images/snap.jpg" alt="snap" />
-<img src="http://sriharisriraman.in/images/tito-images/apcan.jpg" alt="apply canvas" />
-<img src="http://sriharisriraman.in/images/tito-images/blur.jpg" alt="blur" />
+    <content type="html"><![CDATA[<p>&lsquo;Tito&rsquo; is like <em>Quicksilver</em> inside GIMP. You bring up tito and enter something, it gives a dropdown of possible actions. You hit enter to execute that action. <a href="https://plus.google.com/116053365635940402074">Michael Natterer</a> (maintainer) told me on IRC about a year ago that it can go upstream with a few changes. Quite sadly, I haven&rsquo;t had the time to make those changes.</p>
+
+<p>It works pretty well though. Here are a few screenshots:</p>
+
+<p><img src="http://sriharisriraman.in/sriharisriraman.in/images/tito-images/snap.jpg" alt="snap" />
+<img src="http://sriharisriraman.in/sriharisriraman.in/images/tito-images/apcan.jpg" alt="apply canvas" />
+<img src="http://sriharisriraman.in/sriharisriraman.in/images/tito-images/blur.jpg" alt="blur" />
 More screenshots <a href="https://github.com/ssrihari/gimp-tito/wiki/_preview#v-screenshots">here</a>.</p>
 
 <h3>Currently implemented features</h3>
