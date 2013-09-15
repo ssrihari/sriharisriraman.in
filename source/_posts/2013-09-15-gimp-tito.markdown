@@ -12,6 +12,7 @@ It works pretty well though. Here are a few screenshots:
 ![snap](/images/tito-images/snap.jpg)
 ![apply canvas](/images/tito-images/apcan.jpg)
 ![blur](/images/tito-images/blur.jpg)
+![desktop](/images/tito-images/desktop.jpg)
 More screenshots [here](https://github.com/ssrihari/gimp-tito/wiki/About-gimp-tito#v-screenshots).
 
 ###Currently implemented features
