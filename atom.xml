@@ -4,7 +4,7 @@
   <title><![CDATA[Srihari's Blog]]></title>
   <link href="http://sriharisriraman.in/atom.xml" rel="self"/>
   <link href="http://sriharisriraman.in/"/>
-  <updated>2013-09-15T23:29:47+05:30</updated>
+  <updated>2013-09-15T23:30:55+05:30</updated>
   <id>http://sriharisriraman.in/</id>
   <author>
     <name><![CDATA[Srihari Sriraman]]></name>
@@ -19,7 +19,7 @@
     <updated>2013-09-15T20:27:00+05:30</updated>
     <id>http://sriharisriraman.in/blog/2013/09/15/gimp-tito</id>
     
-    <content type="html"><![CDATA[<p>&lsquo;Tito&rsquo; is like <em>Quicksilver</em> inside GIMP. You bring up tito and enter something, it gives a dropdown of possible actions. You hit enter to execute that action. <a href="https://plus.google.com/116053365635940402074">Michael Natterer</a> (maintainer) told me on IRC about a year ago that it can go upstream with a few changes. Quite sadly, I haven&rsquo;t had the time to make those changes.</p>
+    <content type="html"><![CDATA[<p>&lsquo;Tito&rsquo; is like Quicksilver inside GIMP. You bring up tito and enter something, it gives a dropdown of possible actions. You hit enter to execute that action. <a href="https://plus.google.com/116053365635940402074">Michael Natterer</a> (maintainer) told me on IRC about a year ago that it can go upstream with a few changes. Quite sadly, I haven&rsquo;t had the time to make those changes.</p>
 
 <p>It works pretty well though. Here are a few screenshots:</p>
 
