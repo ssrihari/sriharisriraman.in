@@ -1,0 +1,30 @@
+---
+layout: post
+title: "gimp tito"
+date: 2013-09-15 20:27
+comments: true
+categories: 
+---
+'Tito' is like *Quicksilver* inside GIMP. You bring up tito and enter something, it gives a dropdown of possible actions. You hit enter to execute that action. [Michael Natterer](https://plus.google.com/116053365635940402074) (maintainer) told me on IRC about a year ago that it can go upstream with a few changes. Quite sadly, I haven't had the time to make those changes. It works pretty well though. Here are a few screenshots:
+![snap](/sriharisriraman.in/images/tito-images/snap.jpg)
+![apply canvas](/sriharisriraman.in/images/tito-images/apcan.jpg)
+![blur](/sriharisriraman.in/images/tito-images/blur.jpg)
+More screenshots [here](https://github.com/ssrihari/gimp-tito/wiki/_preview#v-screenshots).
+
+###Currently implemented features
+   - It searches first through labels and then tooltips of actions
+   - It supports fuzzy search
+   - It is adaptive: frequently used actions appear higher in the results list
+   - It shows the tooltip, icon and shortcut in each search result if present
+   - It is highly configurable via a preferences window
+
+More high level details in the [tito-readme](https://github.com/ssrihari/gimp-tito/wiki/About-gimp-tito).
+There is also an old [screencast](www.youtube.com/watch?v=G0PuH1LFWhA) I made. It isn't great, but you can see it in action ;)
+
+###The story behind it
+We were four developers who knew little about gtk and git. We started off well and shared our initial prototype. We got a mix of positive and dismissive responses from the gimp dev list. You can see the [thread](http://www.gimpusers.com/forums/gimp-developer/14142-an-update-on-the-menu-search) where the devs and I debated the values it provided.
+
+Quite a few devs tried it out and gave me feedback. I incorporated that feedback and fixed bugs and regularly interacted with the team on how it could be better. But tito got a fair amount of push back from the interaction design perspective.
+
+###We can finish this together
+I really need some company in finishing this up. Mitch (Michael Natterer on IRC) took a look at the diff and suggested a few changes that would make it eligible to go upstream. I've created [issues](https://github.com/ssrihari/gimp-tito/issues) for these on github. My gut feeling is that this should take lesser than a week. Please get in touch with me if you are interested. Let's collaborate!
