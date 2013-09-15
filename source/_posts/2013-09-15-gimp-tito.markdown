@@ -22,7 +22,7 @@ More screenshots [here](https://github.com/ssrihari/gimp-tito/wiki/About-gimp-ti
    - It is highly configurable via a preferences window
 
 More high level details in the [tito-readme](https://github.com/ssrihari/gimp-tito/wiki/About-gimp-tito).
-There is also an old [screencast](www.youtube.com/watch?v=G0PuH1LFWhA) I made. It isn't great, but you can see it in action ;)
+There is also an old [screencast](http://www.youtube.com/watch?v=G0PuH1LFWhA) I made. It isn't great, but you can see it in action ;)
 
 ###The story behind it
 We were four developers who knew little about gtk and git. We started off well and shared our initial prototype. We got a mix of positive and dismissive responses from the gimp dev list. You can see the [thread](http://www.gimpusers.com/forums/gimp-developer/14142-an-update-on-the-menu-search) where the devs and I debated the values it provided.
