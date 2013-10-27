@@ -4,7 +4,7 @@
   <title><![CDATA[Srihari's Blog]]></title>
   <link href="http://sriharisriraman.in/atom.xml" rel="self"/>
   <link href="http://sriharisriraman.in/"/>
-  <updated>2013-10-27T11:26:18+05:30</updated>
+  <updated>2013-10-27T14:09:56+05:30</updated>
   <id>http://sriharisriraman.in/</id>
   <author>
     <name><![CDATA[Srihari Sriraman]]></name>
@@ -15,67 +15,106 @@
   
   <entry>
     <title type="html"><![CDATA[Product space in Carnatic Music]]></title>
-    <link href="http://sriharisriraman.in/blog/2013/09/24/a-carnatic-musicians-need/"/>
+    <link href="http://sriharisriraman.in/blog/2013/09/24/product-space-carnatic-music/"/>
     <updated>2013-09-24T08:59:00+05:30</updated>
-    <id>http://sriharisriraman.in/blog/2013/09/24/a-carnatic-musicians-need</id>
+    <id>http://sriharisriraman.in/blog/2013/09/24/product-space-carnatic-music</id>
     
     <category term='products' />
     
-    <content type="html"><![CDATA[<p>TL;DR: There is a product waiting to come out in this space, but it is going to be a difficult chicken egg problem to solve.</p>
+    <content type="html"><![CDATA[<p>There is a product waiting to come out in this space, but it is going to be a difficult chicken egg problem to solve.</p>
 
 <h3>Where is the space?</h3>
 
-<p>Finding and listening to carnatic music is a bad experience today. It can definitely be better. I&rsquo;ve talked to my fellow carnatic musicians (See section below) at length about this, and I&rsquo;ve confirmed that this is a problem everyone has. Inevitably, everyone ends up talking to me about their problems and how things could be better, for about an hour.</p>
+<p>Finding and listening to <a href="http://en.wikipedia.org/wiki/Carnatic_music">Carnatic Music</a> is a bad experience today. It can definitely be better. I&rsquo;ve talked to my fellow carnatic musicians (See research section below) at length about this, and I&rsquo;ve confirmed that this is a problem everyone has. Inevitably, everyone ends up talking to me for an hour about their problems and how things could be better.</p>
 
 <h3>No Spotify? Grooveshark?</h3>
 
-<p>Is there something like a spotify or grooveshark for Carnatic Music? No. Sangeethapriya and Youtube do a good job, but finding a good rendition of a krithi (song) or raga (mood) in our mind is an ordeal. Ideally, I should be able to search through all krithis by name, artist, composer, etc. Sangeethapriya is making advances in this direction, but is quite technically convoluted to see much progress in the near future. For a non profit, with technical people working in their spare times, it is doing a good job.</p>
+<p>Is there something like a <a href="http://spotify.com">spotify</a> or <a href="http://grooveshark.com">grooveshark</a> for Carnatic Music? No. <a href="http://sangeethapriya.org">Sangeethapriya</a> and Youtube do a good job, but finding a good rendition of a <a href="http://en.wikipedia.org/wiki/Kriti"><em>krithi</em></a> (song) or <a href="http://en.wikipedia.org/wiki/Raga"><em>raga</em></a> (mood) in our mind is a long ordeal. Ideally, I should be able to search through all krithis by name, artist, composer, etc. Sangeethapriya is making advances in this direction, but is quite technically convoluted to hope for much progress in the near future. For a non profit, with technical people working in their spare horus, it is doing a good job.</p>
 
 <h3>Why won&rsquo;t Soundcloud work?</h3>
 
-<p>Plainly because the ecosystem is very different. Here&rsquo;s the thing: Carnatic music is mostly renditions of existing krithis. There are thousands of krithis composed by saints and musical maestros that are rendered with minor variations. Maybe in a year, we&rsquo;ll have 5 new compositions.</p>
+<p>Plainly because the ecosystem is very different. Here&rsquo;s the thing: Carnatic music today is mostly renditions of existing krithis. There are thousands of krithis composed by saints and musical maestros that are rendered with minor variations. Maybe in a year, we&rsquo;ll have 5 new compositions.</p>
 
 <h3>Can&rsquo;t we tweak Soundcloud for Carnatic Music?</h3>
 
 <p>Maybe, but it&rsquo;s a long shot. There are a couple of strong reasons I can think of.
 The standard meta tags of Artists, Album and Track aren&rsquo;t sufficient.
-Here&rsquo;s a more realistic list:
-Krithi name, Artist, Raga, Composer, Tala, Main diety, Type of Song(Varnam/Krithi/Padam/Javali/Devarnama/Thillana), Manodharma, Accompanists</p>
+Here&rsquo;s a more realistic list in order of preference:</p>
+
+<ul>
+<li>Krithi name</li>
+<li>Artist</li>
+<li>Raga</li>
+<li>Composer</li>
+<li>Tala</li>
+<li>Main diety</li>
+<li>Type of Song (Varnam/Krithi/Padam/Javali/Devarnama/Thillana)</li>
+<li>Manodharma</li>
+<li>Accompanists</li>
+</ul>
+
 
 <h3>What I found from my research:</h3>
 
-<p>I talked to about 20 carnatic music performers over a phone call. Each call lasted about an hour, because they had so much to say to me. Here are a few excerpts that would give you an idea of what I&rsquo;m talking about:</p>
+<p>I talked to about 20 carnatic music performers over a phone call. Each call lasted about an hour, because they had so much to say to me.
+I took a google-form survey about the features, sent emails to about 150 people, and talked to everyone I know. Then I made a prototype on a Saturday, stealing all the music from Sangeethapriya. It helped people understand what I&rsquo;m talking about. You can check it out here: <a href="http://sangeethapriya-search.herokuapp.com.">http://sangeethapriya-search.herokuapp.com.</a></p>
 
-<ul>
-<li>&ldquo;If I could just filter by raga and krithi name, and then hit play, that would be awesome!&rdquo;</li>
-<li>&ldquo;I pay Rs.500 for a couple of CDs every month. I can easily pay Rs.1000 a month for this.&rdquo;</li>
-<li>&ldquo;If you can get the lyrics and the track together, that would be great! I&rsquo;d pay for that.&rdquo;</li>
-<li>&ldquo;A lot of old music has been lost with time. Will I get the old radio records as well?&rdquo;</li>
-<li>&ldquo;I&rsquo;ve searched for raga alapanas in X raga all over the internet. I could find only these two renditions.&rdquo;</li>
-<li>&ldquo;I am a big fan of Y person. If I can get a list of songs by Y, that&rsquo;ll be all.&rdquo;</li>
-</ul>
+<p>Here are a few excerpts from the conversations that would give you an idea of what I&rsquo;m talking about:</p>
+
+<blockquote><p>I have to click through ten different pages to preview/download a krithi on Sangeethapriya.</p></blockquote>
 
 
-<p>I made a prototype on a Saturday, stealing all the music from Sangeethapriya. You can check it out here: <a href="http://sangeethapriya-search.herokuapp.com.">http://sangeethapriya-search.herokuapp.com.</a> This helped people understand what I&rsquo;m talking about.
-I took a google-form survey about the features, sent emails to about 150 people, and talked to everyone I know. I see three customer segments here:</p>
 
-<ul>
-<li>Casual Listeners
-  (Mostly Parents) They value ability to filter by diety/occassion</li>
-<li>Active Listeners
-  (Mostly Students) They value basic filters, lyrics/meaning, notation</li>
-<li>Performers
-  (Intermediate, Advanced and professionals) Filters, lyrics and manodharma</li>
-</ul>
 
+<blockquote><p>I pay Rs.500 for a couple of CDs every month. I can easily pay Rs.1000 a month for this.</p></blockquote>
+
+
+
+
+<blockquote><p>If you can get the lyrics and the track together, that would be great! I&#8217;d pay for that.</p></blockquote>
+
+
+
+
+<blockquote><p>If I could just filter by raga and krithi name, and then hit play, that would be awesome!</p></blockquote>
+
+
+
+
+<blockquote><p>I am a big fan of Y person. If I can get a list of songs by Y, that&#8217;ll be all.</p></blockquote>
+
+
+<h3>Customer Segments:</h3>
+
+<p>From my research, I see three customer segments:</p>
+
+<p><strong>Casual Listeners:</strong>
+(Mostly Parents) They value ability to filter by diety/occassion</p>
+
+<p><strong>Active Listeners:</strong>
+(Mostly Students) They value basic filters, lyrics/meaning, notation</p>
+
+<p><strong>Performers:</strong>
+(Intermediate, Advanced and professionals) They value the filters, lyrics and manodharma</p>
 
 <h3>Why is this difficult to solve?</h3>
 
 <p>Well, all that was said above, is the &ldquo;Good to have&rdquo; part of the problem.
 The real problem is the other side of the spectrum: Content Providers.</p>
 
-<p>And for Carnatic Music, this is really just one big player: The All India Radio, owned by the government of India.
-Most licenses for Carnatic music for about 10 decades in India, are owned by the AIR.</p>
+<p>And for Carnatic Music, this is really just one big player: The <a href="http://allindiaradio.gov.in/">All India Radio</a>, owned by the government of India.
+Most licenses for Carnatic music for about 10 decades in India, are owned by the AIR, and that&rsquo;s why this is a hard nut to crack.</p>
+
+<p>Here are the slides I used to showcase this idea to my friends at <a href="http://nilenso.com">nilenso</a> at our product pitch day.</p>
+
+<iframe src="http://www.slideshare.net/slideshow/embed_code/25301617 " width="595" height="446" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen></iframe>
+
+
+<p></p>
+
+<h3>Do you think we can build this product?</h3>
+
+<p>Do <a href="mailto:srihari@nilenso.com">write to me</a>. Or comment using disqus below. Thanks!</p>
 ]]></content>
   </entry>
   
